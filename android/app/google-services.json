@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526570494051",
+    "project_id": "e-kart-abaff",
+    "storage_bucket": "e-kart-abaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526570494051:android:6cd486c1322ca375668056",
+        "android_client_info": {
+          "package_name": "syssoft.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526570494051-hh5eal2bgk1boa30h9pq4is7p1341aum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIO9jLka97k8pwONcMbm6oql3Z4gU9MOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526570494051-hh5eal2bgk1boa30h9pq4is7p1341aum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
